@@ -6,11 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a passionate 3rd-year student eager to bridge academic knowledge with impactful real-world software solutions. Driven by curiosity and a proactive learning mindset, I love building scalable applications, exploring emerging technologies, and collaborating on meaningful tech projects.
 
-### 💼 Open to Internships
-I am actively seeking **Software Engineering (SWE)** and **Frontend/Full-Stack Engineering** internships.
-* 🛠️ **Ready to contribute to:** Real-world software projects, web development, database integration, and innovative technology solutions.
-* 📬 **Let's connect:** Reach out via [LinkedIn](https://www.linkedin.com/in/thanushka-thallada-353675356?utm_source=share_via&utm_content=profile&utm_medium=member_android) or contact me at [thalladathanushka@gmail.com](mailto:thalladathanushka@gmail.com)!
-
 * 🌍  I'm based in India
 * ✉️  You can contact me at [thalladathanushka@gmail.com](mailto:thalladathanushka@gmail.com)
 
