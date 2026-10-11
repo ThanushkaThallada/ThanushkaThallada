@@ -23,14 +23,3 @@ LinkedIn 🌐
 GitHub 💻
 Email Me 📩
 <p align="center">Thank you for visiting my profile! 🚀</p>
-Content
-
-PDF
-
-<div align="center"> <img height="250" src="https://github.com/user-attachments/assets/aa728327-b2fa-407e-acaa-d899c91feb17" /> </div> <div align="center"> <a href="https://www.linkedin.com/in/sumeet-patil-2b70bb227/" target="_blank"> <img src="https://img.shields.io/sta
-
-PASTED
-
-<div align="center"> <a href="https://www.linkedin.com/in/thanushka-thallada-353675356" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /> </a> <a href="htt
-
-PASTED
