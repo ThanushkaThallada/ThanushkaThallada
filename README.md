@@ -1,9 +1,7 @@
-<!-- Banner Image -->
+<!-- Banner GIF -->
 <p align="center">
-  <img src="./banner.jpg" alt="Thanushka Thallada - Backend & AI Engineer" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="900"/>
 </p>
-
----
 
 <!-- Social Badges -->
 <p align="center">
@@ -20,18 +18,14 @@
   </a>
 </p>
 
----
-
 <h1 align="center">Hello World! 👋</h1>
 <h2 align="center">I'm Thanushka Thallada</h2>
 
 <p align="center">
   🌟 <b>Backend & AI Engineer</b> &nbsp;|&nbsp; Actively Seeking New Opportunities 🚀<br/>
   Building production-grade web applications with the MERN stack, Django, and Google Gemini AI.<br/>
-  B.Tech IT student who loves hackathons, problem solving, and shipping ideas.
+  B.Tech IT student (CGPA 8.45) who loves hackathons, problem solving, and shipping ideas.
 </p>
-
----
 
 ## 🛠️ Languages and Tools
 
