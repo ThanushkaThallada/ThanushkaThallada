@@ -1,25 +1,56 @@
-<div align="center"> <a href="https://www.linkedin.com/in/thanushka-thallada-353675356" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /> </a> <a href="https://github.com/ThanushkaThallada" target="_blank"> <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" /> </a> <a href="mailto:thalladathanushka@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" /> </a> </div> <h1 align="center">👋 Hello World! <br /> I'm Thanushka Thallada</h1> <h3 align="center">🌟 Backend & AI Engineer <br /> Actively Seeking New Opportunities 🚀</h3> <p align="center"> Building production-grade web applications with the MERN stack, Django, and Google Gemini AI. <br /> B.Tech IT student (CGPA 8.45) who loves hackathons, problem solving, and shipping ideas. </p> <h3 align="center">🛠️ Tech Stack</h3> <div align="center">
+<!-- Banner Image -->
+<p align="center">
+  <img src="./banner.jpg" alt="Thanushka Thallada - Backend & AI Engineer" width="100%"/>
+</p>
 
-Languages
+---
 
-<img src="https://skillicons.dev/icons?i=py,c,js&theme=dark" alt="Languages" />
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/thanushka-thallada" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ThanushkaThallada" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:thalladathanushka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Backend & Databases
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql&theme=dark" alt="Backend and Databases" />
+<h1 align="center">Hello World! 👋</h1>
+<h2 align="center">I'm Thanushka Thallada</h2>
 
-Frontend
+<p align="center">
+  🌟 <b>Backend & AI Engineer</b> &nbsp;|&nbsp; Actively Seeking New Opportunities 🚀<br/>
+  Building production-grade web applications with the MERN stack, Django, and Google Gemini AI.<br/>
+  B.Tech IT student who loves hackathons, problem solving, and shipping ideas.
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" alt="Frontend" />
+---
 
-Tools & Infra
+## 🛠️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,vercel&theme=dark" alt="Tools and Infra" /> </div> <h3 align="left">📈 Projects</h3> <ul> <li>🧭 <strong><a href="https://github.com/ThanushkaThallada/AI-Career-Navigator">AI Career Navigator</a></strong> - Full-stack AI career guidance platform built with Node.js, Express.js, MongoDB, and Google Gemini AI, featuring resume analysis, 6-month learning roadmaps, and a career chatbot.</li> <li>🤖 <strong><a href="https://github.com/ThanushkaThallada/autonomous-persona">Autonomous AI Persona</a></strong> - AI-integrated web app for context-aware conversations with personalized interactions and conversation memory.</li> <li>🕵️ <strong>Code Plagiarism Detector</strong> - AI-assisted system built with Python, Flask, and NLP that scores code similarity and generates plagiarism reports.</li> </ul> <h3 align="left">🏆 Achievements</h3> <ul> <li>🥈 <strong>2nd place</strong> among 100+ participants at Bellman Crown 2K25 Hackathon (Vasavi College of Engineering).</li> <li>🥇 <strong>Winner</strong> - Quiest Fiesta 2K25 Poster Presentation (VRK College of Engineering & Technology).</li> <li>💡 Participated in the <strong>Smart India Hackathon (SIH)</strong> Ideation Round with an AI-powered solution.</li> <li>🌟 Campus Ambassador for the Entrepreneurship Cell (E-Cell), <strong>IIT Roorkee</strong> (2026 – Present).</li> <li>🌟 <strong>GeeksforGeeks Campus Ambassador</strong> (2026 – Present).</li> </ul> <h3 align="left">📫 Get in Touch!</h3> <p>I'm actively looking for Software Engineer opportunities and always open to connecting. Feel free to reach out:</p> <div align="center"> <a href="https://www.linkedin.com/in/thanushka-thallada-353675356" target="_blank"> <img src="https://img.shields.io/static/v1?message=Connect_on_LinkedIn&label=&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" /> </a> <a href="https://github.com/ThanushkaThallada" target="_blank"> <img src="https://img.shields.io/static/v1?message=Explore_my_GitHub&label=&color=181717&logo=github&logoColor=white&style=for-the-badge" /> </a> <a href="mailto:thalladathanushka@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Email_Me&label=&color=EA4335&logo=gmail&logoColor=white&style=for-the-badge" /> </a> </div> <h3 align="left">📚 Learning and Growth</h3> <p>Currently enhancing my skills in:</p> <ul> <li>📊 Data Structures & Algorithms</li> <li>🤖 Generative AI, Prompt Engineering & Retrieval-Augmented Generation (RAG)</li> <li>🌐 Advanced Full Stack Development (MERN Stack, Django REST Framework)</li> </ul>
-🤝 Let's Connect!
-
-I'm always excited to meet new people and collaborate on interesting projects. Feel free to reach out if you want to chat about tech, share ideas, or work together!
-
-LinkedIn 🌐
-GitHub 💻
-Email Me 📩
-<p align="center">Thank you for visiting my profile! 🚀</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="48" height="48"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" title="Vercel" width="48" height="48"/>
+</p>
