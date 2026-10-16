@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<h1 align="center">Hello World! 👋</h1>
-<h2 align="center">I'm Thanushka Thallada</h2>
+<h1 align="center">Hello World! 👋
+align="center">I'm Thanushka Thallada</h1>
 
 <p align="center">
   🌟 <b>Backend & AI Engineer</b> &nbsp;|&nbsp; Actively Seeking New Opportunities 🚀<br/>
