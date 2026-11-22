@@ -17,7 +17,7 @@
 I'm Thanushka Thallada</h1>
 
 <p align="center">
-  🌟 <b>Backend & AI Engineer</b> &nbsp;|&nbsp; Actively Seeking New Opportunities 🚀<br/>
+    <b>Backend & AI Engineer</b> &nbsp;|&nbsp; Actively Seeking New Opportunities<br/>
   Building production-grade web applications with the MERN stack, Django, and Google Gemini AI.<br/>
   B.Tech IT student who loves hackathons, problem solving, and shipping ideas.
 </p>
